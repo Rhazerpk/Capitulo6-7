@@ -1,0 +1,16 @@
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\bin\Debug\net5.0\Capitulo6_7.exe
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\bin\Debug\net5.0\Capitulo6_7.deps.json
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\bin\Debug\net5.0\Capitulo6_7.runtimeconfig.json
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\bin\Debug\net5.0\Capitulo6_7.runtimeconfig.dev.json
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\bin\Debug\net5.0\Capitulo6_7.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\bin\Debug\net5.0\ref\Capitulo6_7.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\bin\Debug\net5.0\Capitulo6_7.pdb
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\obj\Debug\net5.0\Capitulo6_7.csproj.AssemblyReference.cache
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\obj\Debug\net5.0\Capitulo6_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\obj\Debug\net5.0\Capitulo6_7.AssemblyInfoInputs.cache
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\obj\Debug\net5.0\Capitulo6_7.AssemblyInfo.cs
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\obj\Debug\net5.0\Capitulo6_7.csproj.CoreCompileInputs.cache
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\obj\Debug\net5.0\Capitulo6_7.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\obj\Debug\net5.0\ref\Capitulo6_7.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\obj\Debug\net5.0\Capitulo6_7.pdb
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo6&7\Capitulo6_7\Capitulo6_7\obj\Debug\net5.0\Capitulo6_7.genruntimeconfig.cache
